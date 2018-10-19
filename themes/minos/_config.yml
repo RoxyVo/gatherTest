@@ -1,5 +1,5 @@
 # Website's icon url.
-favicon: images/logo.png
+favicon: /images/favicon.png
 
 # Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
 open_graph:
@@ -13,7 +13,7 @@ open_graph:
 # It can either be an url to an image or a string if the following option is set.
 # logo:
 #   text: <logo string>
-logo:
+logo: /images/favicon.png
 
 article:
   # Show word count and estimated reading time.
